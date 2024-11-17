@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Riswana Latheef</h1>
-<h3 align="center">A passionate Mern Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riswanar&label=Profile%20views&color=0e75b6&style=flat" alt="riswanar" /> </p>
 
-- 🌱 I’m currently learning **UX Designing, Wordpress**
 
 - 📫 How to reach me **riswanalathu15@gmail.com**
 
